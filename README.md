@@ -3,7 +3,7 @@ A structured Excel learning roadmap for Data Analytics, covering formulas, looku
 
 ## Completed
 
-- ✅ Day 1 - Excel Basics
+- ✅ Day 1 - Excel Basics 
 - ✅ Day 2 - Logical Functions
 - ✅ Day 3 - Analytic Functions
 - ✅ Day 4 - Lookup Functions
@@ -16,3 +16,12 @@ A structured Excel learning roadmap for Data Analytics, covering formulas, looku
 - ⏳ Day 8 - Charts
 - ⏳ Day 9 - Data Cleaning
 - ⏳ Day 10 - Dashboard
+
+## 🎯 Goal
+
+Complete a complete Excel Roadmap for Data Analytics and build a strong portfolio before moving to SQL, Power BI, Python, and Machine Learning.
+
+---
+Created by Varunkumar V
+
+Learning Data Analytics | Excel | SQL | Power BI | Python
