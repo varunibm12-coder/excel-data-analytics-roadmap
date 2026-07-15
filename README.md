@@ -22,6 +22,6 @@ A structured Excel learning roadmap for Data Analytics, covering formulas, looku
 Complete a complete Excel Roadmap for Data Analytics and build a strong portfolio before moving to SQL, Power BI, Python, and Machine Learning.
 
 ---
-Created by Varunkumar V
+Created by **Varunkumar V**
 
 Learning Data Analytics | Excel | SQL | Power BI | Python
