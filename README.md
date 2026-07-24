@@ -10,12 +10,11 @@ A structured Excel learning roadmap for Data Analytics, covering formulas, looku
 - ✅ Day 5 - Text Functions
 - ✅ Day 6 - Date & Time Functions
 - ✅ Day 7 - Pivot Tables
-
-## Upcoming
-
-- ⏳ Day 8 - Charts
-- ⏳ Day 9 - Data Cleaning
-- ⏳ Day 10 - Dashboard
+- ✅ Day 8 - Excel Charts
+- ✅ Day 9 - Data Validation
+- ✅ Day 10 - Advanced Conditional Formatting
+- ✅ Day 11 - Interactive Dashboard
+- ✅ Day 12 - Advanced Excel Dashboard
 
 ## 🎯 Goal
 
