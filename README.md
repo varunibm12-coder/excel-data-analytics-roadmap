@@ -1,26 +1,106 @@
-# Excel-data-analytics-roadmap
-A structured Excel learning roadmap for Data Analytics, covering formulas, lookup functions, text and date functions, pivot tables, charts, dashboards, and hands-on mini projects.
+# 📊 Excel for Data Analytics – 20 Day Learning Journey
 
-## Completed
+## 📌 Overview
 
-- ✅ Day 1 - Excel Basics 
-- ✅ Day 2 - Logical Functions
-- ✅ Day 3 - Analytic Functions
-- ✅ Day 4 - Lookup Functions
-- ✅ Day 5 - Text Functions
-- ✅ Day 6 - Date & Time Functions
-- ✅ Day 7 - Pivot Tables
-- ✅ Day 8 - Excel Charts
-- ✅ Day 9 - Data Validation
-- ✅ Day 10 - Advanced Conditional Formatting
-- ✅ Day 11 - Interactive Dashboard
-- ✅ Day 12 - Advanced Excel Dashboard
+This repository documents my 20-day learning journey in Microsoft Excel for Data Analytics. Throughout this journey, I practiced Excel fundamentals, data cleaning, analysis, visualization, and dashboard development using real-world datasets.
 
-## 🎯 Goal
-
-Complete a complete Excel Roadmap for Data Analytics and build a strong portfolio before moving to SQL, Power BI, Python, and Machine Learning.
+The repository showcases my hands-on learning through daily exercises and a final end-to-end analytics project.
 
 ---
-Created by **Varunkumar V**
 
-Learning Data Analytics | Excel | SQL | Power BI | Python
+## 🎯 Skills Learned
+
+### Excel Fundamentals
+- Workbook & Worksheet Management
+- Tables
+- Cell Referencing
+- Sorting & Filtering
+
+### Excel Functions
+- SUM
+- AVERAGE
+- COUNT
+- MAX
+- MIN
+- IF
+- SUMIF / SUMIFS
+- COUNTIF / COUNTIFS
+- VLOOKUP
+- HLOOKUP
+- INDEX & MATCH
+- XLOOKUP
+- Text Functions
+- Date Functions
+
+### Data Analysis
+- Conditional Formatting
+- Data Validation
+- Pivot Tables
+- Pivot Charts
+- Sparklines
+- What-If Analysis
+- Goal Seek
+
+### Dashboard Development
+- KPI Cards
+- Interactive Charts
+- Slicers
+- Timeline
+- Business Insights
+- Dashboard Design
+
+## 📈 Final Project
+
+### Sales Performance Dashboard
+
+The final project demonstrates an end-to-end business analysis workflow using Microsoft Excel.
+
+### Features
+
+- Data Cleaning
+- KPI Summary
+- Pivot Tables
+- Pivot Charts
+- Interactive Dashboard
+- Slicers
+- Timeline
+- Business Insights
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+
+---
+
+## 💡 What I Learned
+
+- Cleaning and preparing raw datasets
+- Applying Excel functions for analysis
+- Creating Pivot Tables and Pivot Charts
+- Building interactive dashboards
+- Visualizing business performance
+- Generating actionable insights from data
+
+---
+
+## 🚀 Next Learning Goals
+
+After completing Excel, I am continuing my Data Analytics roadmap with:
+
+- SQL
+- Python for Data Analytics
+- Power BI
+- Statistics
+- End-to-End Data Analytics Projects
+
+---
+
+## 👨‍💻 Author
+
+**Varunkumar V**
+
+Aspiring Data Analyst
+
+GitHub: https://github.com/varunibm12-coder
